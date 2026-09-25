@@ -70,8 +70,7 @@ Cloudinary Storage
 - File Upload Handling with Multer
 - Cloud Deployment using Vercel and Render
 - Git & GitHub Workflow
-
----
+frontend link-https://student-mangement-system-qefn.vercel.app/
 
 ## 👨‍💻 Author
 Sakshi Singh
