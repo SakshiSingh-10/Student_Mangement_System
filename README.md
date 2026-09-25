@@ -14,13 +14,8 @@ A Full-Stack Project Management System built using the MERN Stack.
 
 ---
 
-## 🌐 Live Demo
 
-**Frontend:** https://project-flow-cyan-psi.vercel.app/
 
-**Backend:** https://projectflow-y7fs.onrender.com/
-
----
 
 ## 📸 Screenshots
 
@@ -79,7 +74,6 @@ Cloudinary Storage
 ---
 
 ## 👨‍💻 Author
+Sakshi Singh
 
-**Shivanshi Yadav**
 
-GitHub: https://github.com/shivanshiyadav2004
